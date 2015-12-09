@@ -1,4 +1,3 @@
-//= require_tree .
 
 WebFontConfig = {
   google: { families: [ 'Lato:400,300,700:latin' ] }
